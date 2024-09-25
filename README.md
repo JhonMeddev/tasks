@@ -60,6 +60,7 @@ senha: root
     Documentação OpenAPI JSON: http://localhost:8080/v3/api-docs
 ```
 
+![Logo do Projeto](doc-img/doc-swagger.png)
 
 
 7. Executar Testes (Opcional)
