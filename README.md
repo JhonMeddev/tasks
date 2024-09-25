@@ -88,7 +88,7 @@ Pom.xml
 
 Aqui estão as dependências incluídas no pom.xml:
 
-xml
+`
 
 <dependencies>
     <!-- Spring Boot Starter Web -->
@@ -122,7 +122,8 @@ xml
         <artifactId>spring-boot-starter-test</artifactId>
         <scope>test</scope>
     </dependency>
-</dependencies>
+</dependencies> 
+
 
 Dúvidas?
 
