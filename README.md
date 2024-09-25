@@ -17,7 +17,6 @@ Clone o repositório Git para sua máquina local:
 
 ```bash
 git clone https://github.com/JhonMeddev/tasks
-cd seu-repositorio
 ```
 
 2. Construir o projeto
